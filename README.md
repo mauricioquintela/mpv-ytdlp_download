@@ -15,7 +15,8 @@ Based on [mpv-copyTime](https://github.com/Arieleg/mpv-copyTime) and [showfilena
 
 * Give execute permissions to yt-dlp_script.sh (chmod +x yt-dlp_script.sh).
 
-* Update yt-dlp_script.sh with your prefered format options.
+* Update yt-dlp_script.sh with your prefered format options, as well as with
+  your prefered path to download the videos to.
 
 
 # Screenshot
